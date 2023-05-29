@@ -44,5 +44,21 @@ a{
 }
 .first-section{
     background-image: url(Enjoy\ Your\ shopping!.png);
-    
+    background-repeat: no-repeat;
+}
+.Dream-big{
+    display: flex;
+}
+.second img{
+    width: 82%;
+    border-radius: 20%;
+}
+.second{
+    width: 50%;
+    padding: 3%;
+}
+.Dream-big{
+    background-image: url(crop\ design.png);
+    background-repeat:no-repeat ;
+    background-position: right;
 }
