@@ -29,21 +29,21 @@ strong{
 }
 p{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+    padding-right: 46px;
 }
-a{
+a {
   text-decoration:none;
   /* background-color: orange; */
   padding:5px 20px;
   border-style:outset;
   border-color:black;
   border-radius: 10px;
-  border-width: 3px; 
-  background-image: linear-gradient(orange, red);
+  border-width: px; 
+  background-image: linear-gradient(orange, gold);
 
 }
 .first-section{
-    background-image: url(Enjoy\ Your\ shopping!.png);
+    background-image: url(image/blob2-haikei.png);
     background-repeat: no-repeat;
 }
 .Dream-big{
@@ -58,7 +58,7 @@ a{
     padding: 3%;
 }
 .Dream-big{
-    background-image: url(crop\ design.png);
+    background-image: url(image/blob1-scatter-haikei.png);
     background-repeat:no-repeat ;
     background-position: right;
 }
