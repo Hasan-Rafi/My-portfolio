@@ -3,7 +3,7 @@ body{
     margin:0%;
 }
 
-section{
+.first-section{
     display: flex;   
 }
 .welcome{
@@ -25,7 +25,6 @@ span{
 }
 strong{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
 }
 p{
     font-family: cursive;
@@ -46,9 +45,6 @@ a {
     background-image: url(image/blob2-haikei.png);
     background-repeat: no-repeat;
 }
-.Dream-big{
-    display: flex;
-}
 .second img{
     width: 82%;
     border-radius: 20%;
@@ -61,4 +57,19 @@ a {
     background-image: url(image/blob1-scatter-haikei.png);
     background-repeat:no-repeat ;
     background-position: right;
+}
+.three{
+    display: flex;
+} 
+.bold{
+    /* font-size: ; */
+}
+.rafi{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    padding: 0 26px;
+    border-radius: 16px;
+    margin: 14px 20px;
+}
+footer{
+    text-align: center;
 }
